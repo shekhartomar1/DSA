@@ -9,5 +9,5 @@
 // specifically move zero jaisi problem ka ham extra space use krke bhi krr sakte hai , jaise non zero elements ko 
 // pehle fill krrlo iterate krrke aur bache hue elements mein zero daal do
 
-// samme kaam sort array by parity problem mein bhi kiya jaa sakta hai , jha even numbers front mein aur off end mein
+// samme kaam sort array by parity problem mein bhi kiya jaa sakta hai , jha even numbers front mein aur odd end mein
  
