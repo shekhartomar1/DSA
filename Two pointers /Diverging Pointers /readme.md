@@ -1,0 +1,2 @@
+Diverging pointers or expand around center 
+iss pattern ka use ham tab krrte hai jab hame kisi elements ke around symmetrical nature check krrna hota hai , iss type ki problems generally palindromic substring wali problems mein best suite hoti hai , jaise problem no.5 aur 647 , dono same issi pattern prr based hai 
