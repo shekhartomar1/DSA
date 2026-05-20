@@ -1,5 +1,5 @@
 // inn problems me statement read krrnne se idea lena 
-//  kya idea ?? idea ye ke isme khi nhi khi data structure ko filter krrne ki baat ho rhi hai
+//  kya idea ?? idea ye ke isme khi na khi data structure ko filter krrne ki baat ho rhi hai
 // kesi baat ?? hame khi na khi sabhi zeroes ka end mein ya sabhi non-zero elements ko front mein push krrna hai
 // data ko filter krrna hai toh ham wohi two pointers ki slow and fast moving pointers ka use krrneg 
 // jisme conventionally i ko ham apne filtered array ko mark krrne ke liye use krrenge aur j ko iteration ke liye 
